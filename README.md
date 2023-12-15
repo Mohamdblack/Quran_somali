@@ -17,7 +17,7 @@ All kinds of PR, suggestion and contributions are welcome, let's do this for sak
 
 ## Current implementation
 
-![](https://im4.ezgif.com/tmp/ezgif-4-59bdee350e.webp)
+<!-- ![](https://im4.ezgif.com/tmp/ezgif-4-59bdee350e.webp) -->
 <img src="C:\Users\M BL4CK\Downloads\ezgif.com-gif-to-webp-converted.webp" alt="Alt Text">
 
 ## Contribution Guide lines
