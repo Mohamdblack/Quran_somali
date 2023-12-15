@@ -18,7 +18,8 @@ All kinds of PR, suggestion and contributions are welcome, let's do this for sak
 ## Current implementation
 
 <!-- ![](https://im4.ezgif.com/tmp/ezgif-4-59bdee350e.webp) -->
-<img src="https://im4.ezgif.com/tmp/ezgif-4-59bdee350e.webp" alt="Alt Text">
+
+![imagee]("assets/tasbih_bg.jpg")
 
 ## Contribution Guide lines
 
