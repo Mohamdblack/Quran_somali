@@ -18,7 +18,7 @@ All kinds of PR, suggestion and contributions are welcome, let's do this for sak
 ## Current implementation
 
 <!-- ![](https://im4.ezgif.com/tmp/ezgif-4-59bdee350e.webp) -->
-<img src="C:\Users\M BL4CK\Pictures\Screenshots\Screenshot 2023-12-15 134229.png" alt="Alt Text">
+<img src="https://im4.ezgif.com/tmp/ezgif-4-59bdee350e.webp" alt="Alt Text">
 
 ## Contribution Guide lines
 
