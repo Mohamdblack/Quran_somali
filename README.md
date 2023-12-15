@@ -19,7 +19,7 @@ All kinds of PR, suggestion and contributions are welcome, let's do this for sak
 
 <!-- ![](https://im4.ezgif.com/tmp/ezgif-4-59bdee350e.webp) -->
 
-![imagee]("assets/tasbih_bg.jpg")
+![imagee](assets/tasbih_bg.jpg)
 
 ## Contribution Guide lines
 
