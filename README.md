@@ -17,9 +17,7 @@ All kinds of PR, suggestion and contributions are welcome, let's do this for sak
 
 ## Current implementation
 
-<!-- ![](https://im4.ezgif.com/tmp/ezgif-4-59bdee350e.webp) -->
-
-![imagee](assets/tasbih_bg.jpg)
+![](assets/bg.jpg)
 
 ## Contribution Guide lines
 
