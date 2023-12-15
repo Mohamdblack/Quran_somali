@@ -17,7 +17,7 @@ All kinds of PR, suggestion and contributions are welcome, let's do this for sak
 
 ## Current implementation
 
-![](assets/bg.jpg)
+![](assets/GIFs/ezgif-2-231f56b9ac.gif)
 
 ## Contribution Guide lines
 
